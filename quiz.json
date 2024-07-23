@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of Shrek.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who is Shrek?",
+      "answers": ["Ogre", "Knight", "Prince"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Who is Fiona?",
+      "answers": ["Princess", "Witch", "Fairy"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who is Donkey?",
+      "answers": ["Friend", "Villain", "Prince"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Lord Farquaad?",
+      "answers": ["Ruler", "Ogre", "Knight"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Duloc?",
+      "answers": ["City", "Swamp", "Castle"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Dragon?",
+      "answers": ["Donkey's", "Shrek's", "Fiona's"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Puss?",
+      "answers": ["Cat", "Dog", "Rat"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Shrek's home?",
+      "answers": ["Swamp", "Castle", "Village"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Gingy?",
+      "answers": ["Cookie", "Ogre", "Knight"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Fiona's secret?",
+      "answers": ["Ogre", "Fairy", "Witch"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is King Harold?",
+      "answers": ["Fiona's", "Shrek's", "Donkey's"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Queen Lillian?",
+      "answers": ["Fiona's", "Shrek's", "Donkey's"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Far Far Away?",
+      "answers": ["Kingdom", "Swamp", "Castle"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Fairy Godmother?",
+      "answers": ["Villain", "Hero", "Knight"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Prince Charming?",
+      "answers": ["Villain", "Hero", "Knight"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the Muffin Man?",
+      "answers": ["Baker", "Knight", "Ogre"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Artie?",
+      "answers": ["King", "Ogre", "Knight"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Merlin?",
+      "answers": ["Wizard", "Knight", "Ogre"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Rumpelstiltskin?",
+      "answers": ["Villain", "Hero", "Knight"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Shrek Forever After?",
+      "answers": ["Movie", "Book", "Game"],
       "correctAnswerIndex": 0
     }
   ]
